@@ -1,0 +1,24 @@
+
+
+#banner{
+    display: flex;
+    justify-content: center;
+     
+    height: 300px;
+    margin: 0 auto;
+}
+
+
+
+#muestras{
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    display: flex;
+    
+    flex-direction: row;
+    
+}
+
